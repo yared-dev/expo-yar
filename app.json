@@ -1,0 +1,10 @@
+{
+  "expo": {
+    "name": "expo-yar",
+    "slug": "expo-yar",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
